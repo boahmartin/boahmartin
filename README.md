@@ -8,7 +8,6 @@ const martin = {
     technologies:{
         backEnd: ["nodejs", "express"],
         fronEnd: ["typescript", "angular", "react", "html", "css/sass"],
-        mobileApp: ["ionic", "angular", "react native"],
         database: ["mongo", "mysql"]
     }
 }
