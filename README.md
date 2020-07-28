@@ -1,13 +1,6 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="200" align='right'/>
 
-## Moin, ich bin Martin. 
-## Full Stack Developer 💻
-
-[[LinkedIn 👨🏻‍💻]](https://www.linkedin.com/in/martin-czerwinski-m%C3%BCllner-7728b2118/)
-[[E-Mail 📧]](mailto:martin@czerwinski-muellner.de)
-
-
-### A little more about me...  
+## Moin, ich bin Martin.
 
 ```javascript
 const martin = {
@@ -20,6 +13,6 @@ const martin = {
     }
 }
 ```
-
 ---
-⭐️ From [@ashrafkm](https://github.com/ashrafkm)
+[[LinkedIn 👨🏻‍💻]](https://www.linkedin.com/in/martin-czerwinski-m%C3%BCllner-7728b2118/)
+[[E-Mail 📧]](mailto:martin@czerwinski-muellner.de)
