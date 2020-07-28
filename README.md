@@ -4,11 +4,12 @@
 
 ```javascript
 const martin = {
-    askMeAbout: ["web developer", "web designer"],
-    technologies:{
-        backEnd: ["nodejs", "express"],
-        fronEnd: ["typescript", "angular", "react", "html", "css/sass"],
-        database: ["mongo", "mysql"]
+    askMeAbout:     ["web developer", "web designer"],
+    technologies: {
+        backEnd:    ["nodejs", "express"],
+        fronEnd:    ["typescript", "angular", "react", "html", "css/sass"],
+        database:   ["mongo", "mysql"],
+        cms:        ["wordpress", "octobercms"]
     }
 }
 ```
