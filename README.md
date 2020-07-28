@@ -1,16 +1,25 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**codemortn/codemortn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Moin, ich bin Martin. 
+## Full Stack Developer 💻
 
-Here are some ideas to get you started:
+[[LinkedIn 👨🏻‍💻]](https://www.linkedin.com/in/martin-czerwinski-m%C3%BCllner-7728b2118/)
+[[E-Mail 📧]](mailto:martin@czerwinski-muellner.de)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### A little more about me...  
+
+```javascript
+const martin = {
+    askMeAbout: ["web developer", "web designer"],
+    technologies:{
+        backEnd: ["nodejs", "express"],
+        fronEnd: ["typescript", "angular", "react", "html", "css/sass"],
+        mobileApp: ["ionic", "angular", "react native"],
+        database: ["mongo", "mysql"]
+    }
+}
+```
+
+---
+⭐️ From [@ashrafkm](https://github.com/ashrafkm)
