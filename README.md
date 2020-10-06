@@ -19,9 +19,9 @@ const martin = {
 
 ---
 
-<img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" align='' alt="JS" />
-<img src="https://media3.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="100" align='' alt="angular" />
-<img src="https://media4.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="100" align='' alt="vuejs" />
+<img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" align='left' alt="JS" />
+<img src="https://media3.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="100" align='left' alt="angular" />
+<img src="https://media4.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="100" align='left' alt="vuejs" />
 
 <img src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" align='' alt="react" />
 <img src="https://media1.giphy.com/media/Y1q8LF4Fc6DoQYC3fi/giphy.gif" width="100" align='' alt="svelte" />
