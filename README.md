@@ -21,12 +21,12 @@ const martin = {
 
 <img src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" align='left' alt="JS" />
 <img src="https://media3.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="100" align='left' alt="angular" />
-<img src="https://media4.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="100" align='left' alt="vuejs" />
+<img src="https://media4.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="100" align='' alt="vuejs" />
 
-<img src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" align='' alt="react" />
-<img src="https://media1.giphy.com/media/Y1q8LF4Fc6DoQYC3fi/giphy.gif" width="100" align='' alt="svelte" />
+<img src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" align='left' alt="react" />
+<img src="https://media1.giphy.com/media/Y1q8LF4Fc6DoQYC3fi/giphy.gif" width="100" align='left' alt="svelte" />
 <img src="https://media1.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" align='' alt="nodejs" />
 
-<img src="https://media1.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="100" align='' alt="bootstrap" />
-<img src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" align='' alt="html" />
+<img src="https://media1.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="100" align='left' alt="bootstrap" />
+<img src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" align='left' alt="html" />
 <img src="https://media2.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" align='' alt="css" />
