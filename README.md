@@ -5,7 +5,7 @@
 const martin = {
     askMeAbout:     ["web developer", "web designer"],
     technologies: {
-        frontEnd:    ["typescript", "angular", "vue", "react", "svelte", "html", "css/sass"],
+        frontEnd:   ["typescript", "angular", "vue", "react", "svelte", "html", "css/sass"],
         backEnd:    ["nodejs", "express", "nuxt", "sails"],
         database:   ["mongodb", "mysql"],
         cms:        ["wordpress", "grav", "octobercms"]
