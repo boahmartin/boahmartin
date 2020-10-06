@@ -1,6 +1,5 @@
 
 ## Moin, ich bin Martin.
-<img src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100" align='right alt="github" '/>
 
 ```javascript
 const martin = {
