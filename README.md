@@ -7,8 +7,8 @@ const martin = {
     technologies: {
         frontEnd:   ["typescript", "angular", "vue", "react", "svelte", "html", "css/sass"],
         backEnd:    ["nodejs", "express", "nuxt", "sails"],
-        database:   ["mongodb", "mysql"],
-        cms:        ["wordpress", "grav", "octobercms"]
+        database:   ["mysql", "mongodb"],
+        cms:        ["wordpress", "grav"]
     }
 }
 ```
